@@ -1,0 +1,32 @@
+@import url("https://fonts.google.com/specimen/Outfit");
+body{
+background-color: hsl(212, 45%, 89%);
+font-family: "outfit", sans-serif;
+display: grid;
+height: 100vh;
+place-content: center;
+font-family: "Outfit", sans-serif;
+}
+.all{
+    text-align: center;
+    background-color: white;
+    width: 17rem;
+    height: 27rem;
+    border-radius: 10px;
+}
+.image img{
+    margin-top: 1rem;
+    border-radius: 1rem;
+}
+section{
+    padding: 2px;
+}
+.para{
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+}
+.head{
+    padding-top: 4%;
+    font-size: 1.25rem;
+    color: hsl(218, 44%, 22%);
+}
